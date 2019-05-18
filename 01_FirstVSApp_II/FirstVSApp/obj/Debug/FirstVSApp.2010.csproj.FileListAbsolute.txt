@@ -1,0 +1,9 @@
+D:\ACADEMIC\סמסטר ב 19\דוטנט וסשארפ\Code examples\01_FirstVSApp_II\FirstVSApp\bin\Debug\FirstVSApp.exe.config
+D:\ACADEMIC\סמסטר ב 19\דוטנט וסשארפ\Code examples\01_FirstVSApp_II\FirstVSApp\bin\Debug\FirstVSApp.exe
+D:\ACADEMIC\סמסטר ב 19\דוטנט וסשארפ\Code examples\01_FirstVSApp_II\FirstVSApp\bin\Debug\FirstVSApp.pdb
+D:\ACADEMIC\סמסטר ב 19\דוטנט וסשארפ\Code examples\01_FirstVSApp_II\FirstVSApp\obj\Debug\FirstVSApp.2010.csprojAssemblyReference.cache
+D:\ACADEMIC\סמסטר ב 19\דוטנט וסשארפ\Code examples\01_FirstVSApp_II\FirstVSApp\obj\Debug\Interop.SpeechLib.dll
+D:\ACADEMIC\סמסטר ב 19\דוטנט וסשארפ\Code examples\01_FirstVSApp_II\FirstVSApp\obj\Debug\FirstVSApp.2010.csproj.ResolveComReference.cache
+D:\ACADEMIC\סמסטר ב 19\דוטנט וסשארפ\Code examples\01_FirstVSApp_II\FirstVSApp\obj\Debug\FirstVSApp.2010.csproj.CoreCompileInputs.cache
+D:\ACADEMIC\סמסטר ב 19\דוטנט וסשארפ\Code examples\01_FirstVSApp_II\FirstVSApp\obj\Debug\FirstVSApp.exe
+D:\ACADEMIC\סמסטר ב 19\דוטנט וסשארפ\Code examples\01_FirstVSApp_II\FirstVSApp\obj\Debug\FirstVSApp.pdb
